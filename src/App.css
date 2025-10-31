@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  background-color: #e9e4d4; /* warm background behind the book */
+}
+
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+/* Reset button style for page flip arrow */
+button {
+  font-family: inherit;
+}
